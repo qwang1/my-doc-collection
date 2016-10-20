@@ -1,0 +1,3 @@
+https://github.com/kubernetes/kubernetes/tree/master/test/images/resource-consumer#resource-consumer
+
+It's can be run as a container and comsume its CPU/Mem if send http request
